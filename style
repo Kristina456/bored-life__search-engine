@@ -1,0 +1,13 @@
+.js-part {
+  background-color: rgb(234, 250, 162);
+  width: 350px;
+  height: 150px;
+  padding: 20px;
+  border: 2px dotted black;
+}
+
+#p-part,
+.button,
+.js-div {
+  text-align: center;
+}
